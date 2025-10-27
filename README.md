@@ -1,4 +1,3 @@
-# cyber-security-framework
 <!DOCTYPE html>
 <html lang="en">
 <head>
